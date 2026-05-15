@@ -1,0 +1,16 @@
+[project]
+name = "managerial-accountability-study-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair>=6.1.0",
+    "fastexcel>=0.20.2",
+    "ipykernel>=7.2.0",
+    "pingouin>=0.6.1",
+    "polars>=1.40.1",
+    "pyarrow>=24.0.0",
+    "pyprojroot>=0.3.0",
+    "scipy>=1.17.1",
+]
